@@ -1,0 +1,10 @@
+# Generated backup archives
+backups/*.tar.gz
+scripts/*.tar.gz
+*.tar.gz
+
+# Logs
+logs/*.log
+
+# Temporary file created by mistake
+/scripts/backup
